@@ -4,6 +4,6 @@
 <marquee>Bienvenido <marquee>
 <hr>
 <br>
-<center><h1>Hola</<h1></center>
+<center><h1>Hola</center>
 </body>
 </html>
